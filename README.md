@@ -7,7 +7,7 @@
 
 A full-stack web-based hotel dining management system that streamlines the dining experience from table booking to payment processing — deployed live on AWS EC2.
 
-🌐 **Live Demo:** http://13.49.68.168/hotel/Login.html
+🌐 **Live Demo:** http://13.49.68.168/hotel/homepage/display.html
 
 ---
 
